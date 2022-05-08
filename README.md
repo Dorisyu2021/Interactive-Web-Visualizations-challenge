@@ -8,6 +8,7 @@ I build an interactive dashboard to explore the Belly Button Biodiversity datase
 5.Display each key-value pair from the metadata JSON object somewhere on the page.
 Finanly Update all of the plots any time that a new sample is selected.
 Some pics for my work:
+![png!](homework-14-screenshot1.png)
 
-
+![p!](homework-14-screenshot2.png)
 
